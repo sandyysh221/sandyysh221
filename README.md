@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&pause=1000&color=d15578&width=535&height=80&lines=Hello+World+%F0%9F%AB%B6;I'm+Sandy+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB;Junior+Developer+in+%F0%9F%87%AC%F0%9F%87%A7)](https://git.io/typing-svg)
 
-I've been learning to code since March 2022 and have been hooked since. Check out my portfolio [here](https://sandyysh221.netlify.app/) and if you have any questions/feedback, please don't hestitate to let me know. 🙏
+I've been learning to code since March 2022 and have been hooked since. Check out my [portfolio](https://sandyysh221.netlify.app/) and if you have any questions/feedback, please don't hestitate to let me know. 🙏
 
 I graduated from [SheCodes Pro](https://www.shecodes.io/workshop-pro) and currently studying the [Professional Software Development course](https://codeclan.com/courses/professional-software-development/) with CodeClan. 🎓
 
