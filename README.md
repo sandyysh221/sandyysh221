@@ -2,7 +2,7 @@
 
 I've been learning to code since March 2022 and have been hooked since. Check out my [portfolio](https://sandyysh221.netlify.app/) and if you have any questions/feedback, please don't hestitate to let me know. 🙏
 
-I graduated from [SheCodes Pro](https://www.shecodes.io/workshop-pro) and currently studying the [Professional Software Development course](https://codeclan.com/courses/professional-software-development/) with CodeClan. 🎓
+I graduated from [SheCodes Pro](https://www.shecodes.io/workshop-pro) and CodeClan's [Professional Software Development course](https://codeclan.com/courses/professional-software-development/). 🎓
 
 I'm open to any opportunity as I'm still new so please let me know if you want to collaborate! ✨
 
